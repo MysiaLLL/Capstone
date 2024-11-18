@@ -1,4 +1,4 @@
-# **This is my REAME file**
+# **This is my README file**
 <p>This is my first repository in GitHub. <br>
 This is just testing for Git and GitHub 	<br>
 
