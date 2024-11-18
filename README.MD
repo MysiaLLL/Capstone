@@ -8,7 +8,7 @@ This is just testing for Git and GitHub 	<br>
 
 $${\color{blue}Colour \space \color{yellow}testing} \space \color{red} Red \ colour$$
 
-added something
+added something, added something
 
 added something
 
