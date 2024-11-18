@@ -2,7 +2,8 @@
 <p>This is my first repository in GitHub. <br>
 This is just testing for Git and GitHub 	<br>
 
-`#f03c15`	Test
+$${\color{blue}Colour \space \color{yellow}testing$$
+
 
 
 > Test for quote </p>
