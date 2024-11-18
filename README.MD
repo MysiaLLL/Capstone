@@ -2,7 +2,7 @@
 <p>This is my first repository in GitHub. <br>
 This is just testing for Git and GitHub 	<br>
 
-`rgb(9, 105, 218)`	Test 
+`#f03c15`	Test
 
 
 > Test for quote </p>
