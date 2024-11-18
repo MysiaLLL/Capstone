@@ -2,7 +2,7 @@
 <p>This is my first repository in GitHub. <br>
 This is just testing for Git and GitHub 	<br>
 
-Test
+$${\color{red}Test}$$
 
 
 > Test for quote </p>
